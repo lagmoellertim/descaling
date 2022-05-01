@@ -1,0 +1,2 @@
+from .utils import get_desktop_environment
+from .desktop_environment import DesktopEnvironmentInterface
